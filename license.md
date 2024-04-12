@@ -1,27 +1,6 @@
-# English-Culture-Reserved-License
 
-A software license for English-Culture-only projects, with commercial interest.
-
-* English culture: Projects can only be distributed/used in English-culture and allies, light-people only.
-* Initially free: Projects can be used free of charge. Can be used or derived, in commercial/private projects.
-* Recommended payments: If enough value is obtained, a small fee should be paid to the creator.
-
-This license text, is licensed for others to use, according to the license itself.
-
-When using the license, there is an exception about including copyright info. No need to include the copyright info/license, of the license itself.
-
-License created by Djin Xzzulz. Influenced by other licenses.
-
-Original sections Copyright (c) 2024 Djin Xzzulz.
-
-
-## License template text:
-
-
-# The English-Culture-Reserved license v0.1
-
-Project: [project-name-here]
-Copyright (c) 2024 [creator-name-here]
+Project: The-English-Culture-Reserved-license
+Copyright (c) 2024 Djin Xzzulz
 
 ## License in brief
 
